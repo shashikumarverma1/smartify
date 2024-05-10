@@ -72,12 +72,11 @@ export const Cards=()=>{
           style={{
             width: "90vw",
             position: "absolute",
-            top: "185px", // Adjust the top position to add a gap between the cards
+            top: "185px", 
             left: "20px",
             padding: "16px",
             gap: "16px",
             borderRadius: "24px",
-            opacity: "0px",
             display: "flex",
             alignItems: "center",
           }}
