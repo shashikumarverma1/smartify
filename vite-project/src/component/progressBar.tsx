@@ -1,8 +1,8 @@
-import React from "react";
+
 import "./progressBar.css";
 import { ProgressBar, Step } from "react-step-progress-bar";
 
-const MultiStepProgressBar = ({ percentage,idx, onPageNumberClick }:{ percentage:number,idx:number, onPageNumberClick:unknown }) => {
+const MultiStepProgressBar = ({ percentage,idx, }:{ percentage:number,idx:number,}) => {
 //   let stepPercentage:number = percentage;
  
 
